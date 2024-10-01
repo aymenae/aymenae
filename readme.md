@@ -14,6 +14,6 @@
 
 <br>
 
-![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif) ![](polar_search.gif)
+![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif) ![](polar_search.gif) ![](mcaffee.gif) ![](made_on_amiga01.gif) ![](logoab8.gif) ![](freddie.gif) ![](kendrick.gif) ![](webdisk.gif)
 
 ![](flames.gif)
